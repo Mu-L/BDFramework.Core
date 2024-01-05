@@ -39,11 +39,10 @@ If you find a bug or have some suggestions,please make issue! I'll get back to y
 #### Unity2018 - [ObsoleteBranch](https://github.com/yimengfan/BDFramework.Core/tree/2018.4.23LTS)
 <a name="KksVM"></a>
 #### _Unity2019 - Master_ （推荐）
-<a name="zbYcr"></a>
-#### Unity2020 - [TestBranch](https://github.com/yimengfan/BDFramework.Core/tree/2020.4LTS)
+
 <a name="J516L"></a>
-#### Unity2021 - [TestBranch](https://github.com/yimengfan/BDFramework.Core/tree/2021.2.13f1)
-版本开发流程：<br />=》修改、Fixed bug、新功能加入 基于**Master（目前为Unity2019）**<br />=》Merge to Unity2020 、Unity2021测试
+#### Unity2021 - [待测试]
+版本开发流程：<br />=》修改、Fixed bug、新功能加入 基于**Master（目前为Unity2019）**<br />=》Merge to Unity2021测试
 
 ## V2.1版本:
 
