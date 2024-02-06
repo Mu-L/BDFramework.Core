@@ -19,10 +19,16 @@ If you find a bug or have some suggestions,please make issue! I'll get back to y
 
 #### 稳定版本托管在OpenUPM :  [链接](https://www.wolai.com/4CdvGJ93AXPJ2kLMC49F2Z)   
 
-### Unity3d版本支持:  
+## Unity3d版本支持:  
+### 支持2019、2021 、团结引擎, Unity6以上Runtime付费 不再提供支持维护！！！  
+### 支持2019、2021 、团结引擎, Unity6以上Runtime付费 不再提供支持维护！！！  
+### 支持2019、2021 、团结引擎, Unity6以上Runtime付费 不再提供支持维护！！！  
+
 #### Unity2018 - [ObsoleteBranch](https://github.com/yimengfan/BDFramework.Core/tree/2018.4.23LTS)  
-#### *Unity2019 - [链接](https://www.wolai.com/4CdvGJ93AXPJ2kLMC49F2Z)    （当前支持）  
+#### Unity2019 - [链接](https://www.wolai.com/4CdvGJ93AXPJ2kLMC49F2Z)    （当前主干）  
 #### Unity2021 - [待测试]
+#### 团结引擎 - [待测试]  
+
 版本开发流程：<br />=》修改、Fixed bug、新功能加入 基于**Master（目前为Unity2019）**<br />=》Merge to Unity2021测试  
 
 #### [开发计划](https://www.wolai.com/rYPc8FpYj1Lu9EjYoz1Ci9)  
@@ -87,7 +93,7 @@ If you find a bug or have some suggestions,please make issue! I'll get back to y
 
 - 重新定制目录管理规范、指导管理.
 - 一套API自动切换AB和Editor模式，保留Resources.load习惯.
-- 可视化连线打包逻辑、0冗余打包.
+- 可视化打包逻辑配置、0冗余打包.
 - 可扩展打包规则
 - 分包机制.
 - 打包逻辑纠错机制.
